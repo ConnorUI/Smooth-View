@@ -1,0 +1,96 @@
+if State then
+		Blur.Size = 2
+		Cam.FieldOfView = 70
+		wait(0.03)
+		Blur.Size = 3
+		Cam.FieldOfView = 69
+		wait(0.03)
+		Blur.Size = 4
+		Cam.FieldOfView = 68
+		wait(0.03)
+		Blur.Size = 5
+		Cam.FieldOfView = 67
+		wait(0.03)
+		Blur.Size = 6
+		Cam.FieldOfView = 66
+		wait(0.03)
+		Blur.Size = 7
+		Cam.FieldOfView = 65
+		wait(0.03)
+		Blur.Size = 8
+		Cam.FieldOfView = 64
+		wait(0.03)
+		Blur.Size = 9
+		Cam.FieldOfView = 63
+		wait(0.03)
+		Blur.Size = 10
+		Cam.FieldOfView = 62
+		wait(0.03)
+		Blur.Size = 11
+		Cam.FieldOfView = 61
+		wait(0.03)
+		Blur.Size = 12
+		Cam.FieldOfView = 60
+		wait(0.03)
+		Blur.Size = 13
+		Cam.FieldOfView = 59
+		wait(0.03)
+		Blur.Size = 14
+		Cam.FieldOfView = 58
+		wait(0.03)
+		Blur.Size = 15
+		Cam.FieldOfView = 57
+		wait(0.03)
+		Blur.Size = 16
+		Cam.FieldOfView = 56
+		wait(0.03)
+		Blur.Size = 17
+		Cam.FieldOfView = 55
+	else
+		Blur.Size = 16
+		Cam.FieldOfView = 56
+		wait(0.03)
+		Blur.Size = 15
+		Cam.FieldOfView = 57
+		wait(0.03)
+		Blur.Size = 14
+		Cam.FieldOfView = 58
+		wait(0.03)
+		Blur.Size = 13
+		Cam.FieldOfView = 59
+		wait(0.03)
+		Blur.Size = 12
+		Cam.FieldOfView = 60
+		wait(0.03)
+		Blur.Size = 11
+		Cam.FieldOfView = 61
+		wait(0.03)
+		Blur.Size = 10
+		Cam.FieldOfView = 62
+		wait(0.03)
+		Blur.Size = 9
+		Cam.FieldOfView = 63
+		wait(0.03)
+		Blur.Size = 8
+		Cam.FieldOfView = 64
+		wait(0.03)
+		Blur.Size = 7
+		Cam.FieldOfView = 65
+		wait(0.03)
+		Blur.Size = 6
+		Cam.FieldOfView = 66
+		wait(0.03)
+		Blur.Size = 5
+		Cam.FieldOfView = 67
+		wait(0.03)
+		Blur.Size = 4
+		Cam.FieldOfView = 68
+		wait(0.03)
+		Blur.Size = 3
+		Cam.FieldOfView = 69
+		wait(0.03)
+		Blur.Size = 2
+		Cam.FieldOfView = 70
+		wait(0.03)
+		Blur.Size = 1
+	end
